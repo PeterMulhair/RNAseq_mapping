@@ -17,3 +17,7 @@ Scripts added include programs to:
 1. Download SRA files and convert to fastq
 
 `download_fastq.py`
+
+2. Run FastQC on raw reads, trim adapters and reads lower than phred33 and length 35 nucleotides
+
+`getStats_FastQC_Trim_parallel.py`
