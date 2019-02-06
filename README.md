@@ -1,8 +1,9 @@
-## mapping_scripts
+# mapping_scripts
 
-# Scripts used in the full pipeline of mapping RNA seq reads to genes.
+## Scripts used in the full pipeline of mapping RNA seq reads to genes.
 
 Scripts added include programs to 
+
 (1) download sra files from ncbi ftp site 
 (2) convert sra files to fastq 
 (3) get information about the quality of sequence reads using FastQC 
