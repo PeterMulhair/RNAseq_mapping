@@ -11,3 +11,6 @@ Scripts added include programs to:
 5. map the reads to the genes using bowtie2
 6. convert SAM output files to sorted BAM files
 7. show the mapping coverage on the genes with bedtools
+
+---
+
