@@ -28,7 +28,7 @@ Scripts added include programs to:
 
 4. Parse the genomecov output files to find whether the fusion breakpoint is covered by RNA reads
 
-`bedtool_parse_tom.py`
+`bedtool_parse.py`
 
 
 ---
