@@ -21,3 +21,7 @@ Scripts added include programs to:
 2. Run FastQC on raw reads, trim adapters and reads lower than phred33 and length 35 nucleotides
 
 `getStats_FastQC_Trim_parallel.py`
+
+3. Create bowtie index, map reads (PE or SE), convert output SAM to sorted BAM, get coverage information using bedtools genomecov
+
+`bowtie_run.py`
