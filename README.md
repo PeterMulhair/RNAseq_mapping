@@ -26,4 +26,9 @@ Scripts added include programs to:
 
 `bowtie_run.py`
 
+4. Parse the genomecov output files to find whether the fusion breakpoint is covered by RNA reads
+
+`bedtool_parse_tom.py`
+
+
 ---
